@@ -1,3 +1,12 @@
+Wichtig!:
+erstellt bitte branch Namen nach diesem Format:
+[Username]/[kurzbeschreibung]/[DD-MM_YYY]-[Nummer]
+Beispiel: 999Dome/updatedlayout/06-06-2025-2
+so behalten wir den Überblick
+
+Bei Message reicht eine kurzbeschreibung!
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
