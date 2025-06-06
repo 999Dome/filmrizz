@@ -3,7 +3,7 @@ erstellt bitte branch Namen nach diesem Format:
 [Username]/[kurzbeschreibung]/[DD-MM_YYY]-[Nummer]
 Beispiel: 999Dome/updatedlayout/06-06-2025-2
 so behalten wir den Überblick
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Bei Message reicht eine kurzbeschreibung!
 
 
